@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+<Category>
+<Id>1</Id>
+<Name>Owoce</Name>
+<NumberOfProducts>97</NumberOfProducts>
+</Category>
+<Category>
+<Id>2</Id>
+<Name>Warzywa</Name>
+<NumberOfProducts>136</NumberOfProducts>
+</Category>
+<Category>
+<Id>3</Id>
+<Name>Pieczywo</Name>
+<NumberOfProducts>81</NumberOfProducts>
+</Category>
+<Category>
+<Id>4</Id>
+<Name>Alkohol</Name>
+<NumberOfProducts>0</NumberOfProducts>
+</Category>
+</Categories>
